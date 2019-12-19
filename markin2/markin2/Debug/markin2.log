@@ -1,0 +1,5 @@
+﻿  markin2.cpp
+C:\Users\user\Desktop\шарага\++\markin2\markin2\markin2.cpp(12,17): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\user\Desktop\шарага\++\markin2\markin2\markin2.cpp(14,16): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\user\Desktop\шарага\++\markin2\markin2\markin2.cpp(16,16): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  markin2.vcxproj -> C:\Users\user\Desktop\шарага\++\markin2\Debug\markin2.exe
